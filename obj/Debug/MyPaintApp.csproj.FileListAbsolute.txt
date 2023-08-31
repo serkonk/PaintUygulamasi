@@ -1,0 +1,10 @@
+D:\sourcee\repos\MyPaintApp\bin\Debug\MyPaintApp.exe.config
+D:\sourcee\repos\MyPaintApp\bin\Debug\MyPaintApp.exe
+D:\sourcee\repos\MyPaintApp\bin\Debug\MyPaintApp.pdb
+D:\sourcee\repos\MyPaintApp\obj\Debug\MyPaintApp.csproj.AssemblyReference.cache
+D:\sourcee\repos\MyPaintApp\obj\Debug\MyPaintApp.Form1.resources
+D:\sourcee\repos\MyPaintApp\obj\Debug\MyPaintApp.Properties.Resources.resources
+D:\sourcee\repos\MyPaintApp\obj\Debug\MyPaintApp.csproj.GenerateResource.cache
+D:\sourcee\repos\MyPaintApp\obj\Debug\MyPaintApp.csproj.CoreCompileInputs.cache
+D:\sourcee\repos\MyPaintApp\obj\Debug\MyPaintApp.exe
+D:\sourcee\repos\MyPaintApp\obj\Debug\MyPaintApp.pdb
